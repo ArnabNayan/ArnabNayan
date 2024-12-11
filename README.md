@@ -1,6 +1,6 @@
-#Hi,I am Arnab Das
+# Hi,I am Arnab Das
 
-######Web Developer
+###### Web Developer
 
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
